@@ -65,7 +65,7 @@ const Navbar = () => {
                 {/* <Link smooth to="/blogs">
                   Blogs
                 </Link> */}
-                 <a href="https://www.blogger.com/blog/posts/1117724565969623212" target="_blank">Blogs</a>
+                 <a href="http://dsalgozone.blogspot.com/" target="_blank">Blogs</a>
               </li>
               <li>
                 <Link smooth to="/landing#contact">
