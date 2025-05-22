@@ -1,1 +1,0 @@
-# sumi-portfolio
